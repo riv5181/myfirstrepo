@@ -1,2 +1,2 @@
 # myfirstrepo
-Used for github training purposes
+Hello GitHub!
